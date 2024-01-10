@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "627826038533",
+    "project_id": "port-divido",
+    "storage_bucket": "port-divido.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627826038533:android:a44a6b448e3c5a33d9096c",
+        "android_client_info": {
+          "package_name": "com.example.divido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFdN13-rsjlRcNaktbfdK0n3osrnFRDVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
